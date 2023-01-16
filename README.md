@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @arshnxxr
-- 👀 I’m interested in software development
+- 👋 Hi, I’m Arshnoor
+- 👀 I’m interested in software development and hacking
 - 🌱 I’m currently learning programmig languages
-- 📫 How to reach me : Don't
+- 📫 Telegram: @Zustin_7
 
 <!---
 arshnxxr/arshnxxr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
